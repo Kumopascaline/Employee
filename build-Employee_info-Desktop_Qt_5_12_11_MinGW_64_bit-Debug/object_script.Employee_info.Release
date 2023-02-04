@@ -1,0 +1,11 @@
+release/add_employee.o
+release/delete_employee.o
+release/main.o
+release/mainwindow.o
+release/update_employee.o
+release/view_employee.o
+release/moc_add_employee.o
+release/moc_delete_employee.o
+release/moc_mainwindow.o
+release/moc_update_employee.o
+release/moc_view_employee.o

@@ -1,0 +1,11 @@
+debug/add_employee.o
+debug/delete_employee.o
+debug/main.o
+debug/mainwindow.o
+debug/update_employee.o
+debug/view_employee.o
+debug/moc_add_employee.o
+debug/moc_delete_employee.o
+debug/moc_mainwindow.o
+debug/moc_update_employee.o
+debug/moc_view_employee.o

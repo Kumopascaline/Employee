@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>351</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#label {
+border: 2px solid gray;
+border-radius: 10px;
+padding: 0 8px;
+background: gray;
+selection-background-color: darkgray;
+}</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="add_Employee">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>50</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#pushButton {
+border: 2px solid gray;
+border-radius: 10px;
+padding: 0 8px;
+background: white;
+selection-background-color: darkgray;
+}</string>
+    </property>
+    <property name="text">
+     <string>Add Employee</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="view_Employee">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>110</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#pushButton_2 {
+border: 2px solid gray;
+border-radius: 10px;
+padding: 0 8px;
+background: white;
+selection-background-color: darkgray;
+}</string>
+    </property>
+    <property name="text">
+     <string>View Employees</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="update_Employee">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>170</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#pushButton_3 {
+border: 2px solid gray;
+border-radius: 10px;
+padding: 0 8px;
+background:white;
+selection-background-color: darkgray;
+}</string>
+    </property>
+    <property name="text">
+     <string>Update Employee</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="delete_Employee">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>230</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#pushButton_4 {
+border: 2px solid gray;
+border-radius: 10px;
+padding: 0 8px;
+background: white;
+selection-background-color: darkgray;
+}</string>
+    </property>
+    <property name="text">
+     <string>Delete Employee</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>141</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>The Employee information</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
