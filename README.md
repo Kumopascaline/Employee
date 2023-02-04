@@ -1,4 +1,4 @@
-***EMPLOYEE RECORDS Manager With QT for C++***
+**EMPLOYEE RECORDS Manager With QT for C++**
 
 
 	This is a simple C++ with QT application using QT widgets.It manages employee'sinformation.
