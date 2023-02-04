@@ -1,7 +1,8 @@
-EMPLOYEE RECORDS Manager With QT for C++
+***EMPLOYEE RECORDS Manager With QT for C++***
 
 
-	This is a simple C++ with QT application using QT widgets.It manages employee's information.And we can perform CRUD that is create,read,update and delete.
+	This is a simple C++ with QT application using QT widgets.It manages employee'sinformation.
+And we can perform CRUD that is create,read,update and delete.
 	
 ![Capture d’écran (87)](https://user-images.githubusercontent.com/75366612/216786426-302cae61-0480-4648-bec2-8fe18ad6f252.png)
 
